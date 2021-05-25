@@ -1,1 +1,1 @@
-<img src="/home/diego/Insync/documentos.novaes@gmail.com/Google Drive - Shared with me/GIT/diegonovaes/DIEGO (2).png" alt="Meu logo">
+<img src="/home/diego/Insync/documentos.novaes@gmail.com/Google Drive - Shared with me/GIT/diegonovaes/img/logo.png" alt="my logo">
